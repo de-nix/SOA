@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  product-microservice:
+    container_name: product-microservice
+    image: product-microservice
+    build:
+      context: .
+    volumes:
+      - .:/app
+      - /app/node_modules
+    ports:
+      - 3002:3002
+    command: npm run start:dev
+
+volumes:
+  pgdata:

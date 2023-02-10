@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  product-server:
+    container_name: product-server
+    image: product-server
+    build:
+      context: .
+    volumes:
+      - .:/app
+      - /app/node_modules
+    ports:
+      - 3001:3001
+    command: npm run start:dev
+volumes:
+  pgdata:

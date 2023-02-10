@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "photocamerastore-3bac2",
+  "private_key_id": "104a5b7129649e9a372bdfa536d45623e0bc9a56",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDc2H5tQV3woYx0\nSzur2mjOAQISoLSF5eS4ycp6rUCFpPfPWNDwvzGk55S5IQPNBcQFZ3UBHHsm+syF\n/rOZivGmv69Llq4+rzxOOm6TlyOWzc4eT2TVjKOEqIMDK4Ng2dXvMdPUeYMHkEIm\n3RRMLb4N3vx3vHZsPLSy3k4MPx7co90R3nzkVZmG0a6k3r6IoZuyxp9Hovfd+j78\np5j1hNx8+7qKXAMYqrSltrK8JbTcE8/VeRNfDPzLRlPstG1cyMI5Z8l4qKH6c/M6\nFLf/KvlrCT8cBNqAvjS6WiXzhhAWIBT4pGuR0ms6QtFy5uJscR12gBxidwX9u16Y\nGzwiB1YjAgMBAAECggEAISFLKgm11XzurJ2CqJ+9vDWzgWbhXfrkaoI/IVMvTD04\nvb7FrXAJOwNQsMsOnmmgg+0GxPFoWisilnFksQKCiPDVk8HZhubT5apnXzW7rYpX\nQv3HEzAjcamz6bxT26oiKV1wuT23VeGiwuDEhD8SdVM/zZiUrV0YAINP8w9fCls1\nLNPG1ds8Z8tuqz5p17GQbBwlSaah8a5kCOEDnyvoZ4uTfaR+hGtMzqmaEQ9JMKrn\nl7gtXjvmqcIV98hF3cRyBDMbGCzJTdnDEK6OEd6Wy/YrX8LUna49burVNThaqR+V\n4cK042don6abOcsjRQ7Tjvgm1fFYX6aiXFx9R3ZzlQKBgQD/6zIrc0Xbym8p2Crd\nPmohPXvLnvX3EOWchHgXvQyhzx+/n9SJZJjq2gFv3+Reox1ZuPsl3QgfrTarglwx\nD7Z/pq0RPh5hSJa4Te34TtwsOKTZquhYTTQOH9ceXDTsv3vOteqDUjKbbNw/tyu4\nODYdb5hDv4ZHAlGEqKYt+PL6pQKBgQDc6nJdWdVDqlgeAc5588voxE4cP0k4XBBO\nfMsMF+uhiI8tivRQL9YgqXguam4/RUN6K4xdLWl+QQz+/BPJ8BQt9a+8lTXIlmQ+\nSG34oy4eW7rFZX4k5CNiyb08bB32RBUqUzgto5D4Cy9EI/RsJF7QOaL96JOLiumw\nMgQlyrjbJwKBgD8BocVuyOk26q1rqgn0Xt62K29TQI1GXLFvL73wbla8Dr331LTK\nzpcreyUXAzuFfyli0Hpe86wQ0h/hpV7y1mSRHZTcLVCYNXtEvGzgxXYhr/xjBncO\n8tzzW9v+qY0MC6g1w3n3V7xKTeNl7l6ZgEE5A0zSr3V2DanSd69j1jZ9AoGBANG/\nh3Y6pNHqGl/jNzdy0lfeiosnS03Hm3Pp6J9C1uY30jlbhTvdL2EzhngLdUF9ceO9\nFTgitda5zK0MiX1iBMbeTkyvHrGkmOjJvCAmTtNkJKDnDC3arf5NrO6BeLEpUy8s\ndFpgwnO/qtD3kkpa/eqVzrtk5zHGYrp3wphfMcRhAoGBAPY4Wi328pfnprEclMeQ\nksAZCDSj0z03V34fjr3DO6rp9ikL/x8lGP8HzB8rgzXf9XXBM/JYpBgkbv8UgP74\nKNgzm1ZoYHeUQFtsPqnxszJG0zK+V6GdcgbAVgvrQMltu6jKUkoAryoDrzkQTJVd\n0ImikkiaTAYzGPzc4HofIyYw\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-t4x5f@photocamerastore-3bac2.iam.gserviceaccount.com",
+  "client_id": "101955130255875605540",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-t4x5f%40photocamerastore-3bac2.iam.gserviceaccount.com"
+}

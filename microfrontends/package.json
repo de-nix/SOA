@@ -1,0 +1,15 @@
+{
+  "name": "state-mngmt-mfe",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently --kill-others-on-fail \"npm run core\" \"npm run counter\" \"npm run store\" \"npm run host\" ",
+    "core": "cd core && npm start",
+    "counter": "cd counter && npm start",
+    "store": "cd store && npm start",
+    "host": "cd host && npm start"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
